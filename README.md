@@ -3,7 +3,7 @@
 迅雷下载的 Alfred workflow,  ([戳我下载](https://github.com/qiaoxueshi/Thunder_Alfred_WorkFlow/releases))， 使用很简单，打开 Alfred，输入 `td 下载地址` 即可，比如：
 
 ``` 
-http://x.xx/x.dmg
+td http://x.xx/x.dmg
 ```
 
 然后会打开迅雷下载的提示框，方便你在任何情形下直接使用迅雷下载你的链接（如果迅雷没有启动，会自动启动）。
