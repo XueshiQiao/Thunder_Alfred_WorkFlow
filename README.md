@@ -1,6 +1,6 @@
 # Thunder Alfred WorkFlow
 
-迅雷下载的 Alfred workflow,  ([戳我下载](https://github.com/qiaoxueshi/Thunder_Alfred_WorkFlow/releases))， 使用很简单，打开 Alfred，输入 `td 下载地址` 即可，比如：
+迅雷下载的 Alfred workflow,  ([戳我下载](https://github.com/qiaoxueshi/Thunder_Alfred_WorkFlow/releases/download/1.0/Thunder.Downloader.alfredworkflow.zip))， 使用很简单，打开 Alfred，输入 `td 下载地址` 即可，比如：
 
 ``` 
 td http://x.xx/x.dmg
